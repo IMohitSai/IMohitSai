@@ -12,7 +12,6 @@
 - 🤖 Exploring **GANs for sign language translation & IBM Watson for AI projects**  
 - 💡 Passionate about **AI, ML, IoT, and innovative tech solutions**  
 - 🌱 Learning **advanced ML, React, and cloud computing**  
-- 📫 Reach me at: **[Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourusername)**  
 - 🏆 Finalist in multiple **AI/ML competitions**  
 
 ---
@@ -28,15 +27,15 @@
 <table align="center">
 <tr>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit123&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IMohitSa&theme=tokyonight&hide_border=true" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohit123&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=IMohitSai&show_icons=true&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit123&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMohitSa&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
 </table>
@@ -45,16 +44,16 @@
 
 ### 🚀 **My Projects**
 
-- 🎭 **[GAN-based Sign Language Generator](https://github.com/Mohit123/Signify)** → **AI for Sign Language Interpretation**  
-- 🤖 **[AI Fitness Guide](https://github.com/Mohit123/Fitness-AI)** → **Personalized fitness recommendations using AI**  
-- 🌍 **[Real-time Air Quality & Mask Detection](https://github.com/Mohit123/Mask-Detection)** → **Air Quality & Mask Compliance AI**  
+- 🎭 **[GAN-based Sign Language Generator](https://github.com/IMohitSa/Signify)** → **AI for Sign Language Interpretation**  
+- 🤖 **[AI Fitness Guide](https://github.com/IMohitSa/Fitness-AI)** → **Personalized fitness recommendations using AI**  
+- 🌍 **[Real-time Air Quality & Mask Detection](https://github.com/IMohitSa/Mask-Detection)** → **Air Quality & Mask Compliance AI**  
 
 ---
 
 ### 🔗 **Let's Connect!**
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/IMohitSai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:Imohitsai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
